@@ -13,8 +13,8 @@
        <br>
 
 - Run:
-    1. ./client <server-ip> \<port>
-    2. ./server <mirror-ip> \<port>
+    1. ./client \<server-ip> \<port>
+    2. ./server \<mirror-ip> \<port>
     3. ./mirror \<port>
 
 # Introduction
